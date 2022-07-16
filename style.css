@@ -56,7 +56,8 @@ border-radius: 15px;
 
 
 
-@media (max-width: 767px) { 
+
+@media (max-width: 385px) { 
 
 
 
@@ -71,7 +72,7 @@ border-radius: 15px;
         
         .logo {
         
-        font-size: 18px;
+        font-size: 15px;
         color: #000;
         margin-left: 10px;
         font-weight: 900;
@@ -84,14 +85,17 @@ border-radius: 15px;
             }
             nav ul li a {
             display: block;
-            padding: 5px 10px ;
+            padding: 5px 9px ;
             color: #000
+            ;
+            font-size: 12px;
             }
             
         
 
 
 }
+
 
 
 
