@@ -55,9 +55,7 @@ border-radius: 15px;
 }
 
 
-
-
-@media (max-width: 385px) { 
+@media (max-width: 74.7mm) { 
 
 
 
@@ -67,34 +65,35 @@ border-radius: 15px;
         justify-content: space-between;
         align-items: center;
         margin: 2px;
-        
+        margin-top: 10px;
         }
         
         .logo {
         
-        font-size: 15px;
+        font-size: 11px;
         color: #000;
-        margin-left: 10px;
+        margin-left: 8px;
         font-weight: 900;
         }
         
         nav ul li {
-            margin-left: 2px;
-            margin-right: 2px;
+            margin-left: 1px;
+            margin-right: 1px;
             
             }
             nav ul li a {
             display: block;
-            padding: 5px 9px ;
+            padding: 3px 6px ;
             color: #000
             ;
-            font-size: 12px;
+            font-size: 9px;
             }
             
         
 
 
 }
+
 
 
 
